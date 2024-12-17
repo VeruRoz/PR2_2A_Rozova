@@ -19,7 +19,7 @@ namespace Test_OOP_17._12_
         //V konstruktoru přijímá pole zaměstnanců a nakopíruje si ho(viz první bod třídy Skupina).
 
 
-
+         
         private List<Zamestnanec> _zamestnanci = new List<Zamestnanec>();
 
         public void DoPrace()
@@ -30,7 +30,7 @@ namespace Test_OOP_17._12_
                 _zamestnanci[i].Pracuj();
             }
         }
-
+               
         public string Popis { get; private set; } = $"skupina {_zamestnanci.Pohlavi.Muz.Count} mužu {_zamestnanci.Pohlavi.Zena.Count} zen";
         public double PrumernaMzda() //{ get; private set; } 
         {

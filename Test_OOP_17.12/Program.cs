@@ -7,7 +7,7 @@ namespace Test_OOP_17._12_
             public static void Main(string[] args)
             {
                 Test();
-            }
+            } 
             public static void Test()
             {
                 Ucetni franta = new Ucetni("František", Pohlavi.Muz, 31000);

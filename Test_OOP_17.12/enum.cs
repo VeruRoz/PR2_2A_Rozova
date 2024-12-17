@@ -8,6 +8,6 @@ namespace Test_OOP_17._12_
 {
     internal class @enum
     {
-        enum Pohlavi { Muz, Zena};
+        enum Pohlavi { Muz, Zena}; 
     }
 }

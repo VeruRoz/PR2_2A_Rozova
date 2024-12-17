@@ -26,5 +26,6 @@ namespace Test_OOP_17._12_
             Povolání = povolání;
         }
         public abstract string Pracuj();
+         
     }
 }

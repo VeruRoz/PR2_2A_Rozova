@@ -17,5 +17,5 @@ namespace Test_OOP_17._12_
         private enum Pohlavi { Muz, Zena };
 
 
-    }
+    } 
 }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test_OOP_17._12_
+namespace Test_OOP_17._12_ 
 {
     internal class Kuchar : Zamestnanec
     {
@@ -24,6 +24,6 @@ namespace Test_OOP_17._12_
         {
             return "Klepu řízky v hotelu …";
         }
-
+         
     }
 }
