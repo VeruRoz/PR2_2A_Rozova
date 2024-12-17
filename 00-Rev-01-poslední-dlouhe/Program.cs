@@ -16,7 +16,7 @@
             for(int i = 0; i<pole.Length; i++)
             {
                 if (pole[i].Length >= limit)
-                    vysledek=pole[i];
+                    vysledek=pole[i]; 
             }
 
             return vysledek;
