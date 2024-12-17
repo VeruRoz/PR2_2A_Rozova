@@ -8,8 +8,8 @@
         }
         class Obdelník
         {
-            public int StranaA { get; private set; }   
-            public int StranaB { get; private set; } 
+            public int StranaA { get; private set; }
+            public int StranaB { get; private set; }
 
 
             public void Obdelnik(int stranaA, int stranaB)
