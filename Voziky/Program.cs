@@ -39,6 +39,7 @@
                     berousiho.Take(akutalniCas, delkaNakupu);
                     odlozene.Add(berousiho); 
                 }
+                
 
                 for(int i = 0; i < odlozene.Count; i++)
                 {
