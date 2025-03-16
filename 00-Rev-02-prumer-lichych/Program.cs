@@ -30,7 +30,7 @@
                 if (numbers[i] >0 && numbers[i] %2 !=0)
                 {
                     početčisel++;
-                    prumer += numbers[i];
+                    prumer += numbers[i]; 
                 }
 
             }
